@@ -1,0 +1,10 @@
+jab 1 2.21
+kea 3 34.43
+ga 2 43.2
+ask 4 4.432
+ok 5 5.321
+lalalalala 6 6.432
+mokango 7 7.4323
+gang 8 8.54
+btw 9 9.322234
+fufu 10 10.10101010
